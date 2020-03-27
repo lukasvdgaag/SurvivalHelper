@@ -1,0 +1,11 @@
+name: SurvivalHelper
+main: me.gaagjescraft.network.team.survivalhelper.SurvivalHelper
+version: 1.0.0
+author: GaagjesCraft Network Team (GCNT)
+description: Makes survivalling easier
+
+commands:
+  survivalhelper:
+    aliases:
+      - survival
+      - sh
